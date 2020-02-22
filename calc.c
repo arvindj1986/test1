@@ -6,5 +6,6 @@ int main() {
     printf("Enter two operands: ");
     scanf("%lf %lf", &first, &second);
     printf("Adition:%d",first+second);
-    return 0;
+    return 0;	
+    printf("NewLine");
 }
